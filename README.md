@@ -1,4 +1,5 @@
-# Ionic 3 Starter with FireBase
+## Build a Simple Ionic App Login/Registration  integrated with Firebase
+Just a starter .
 
 Ionic 3  Starter with 2 Pages. 
 
